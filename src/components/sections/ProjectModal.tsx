@@ -1,4 +1,4 @@
-import { Building, Clock, User, Calendar } from 'lucide-react';
+import { Building, User, Calendar } from 'lucide-react';
 import { Modal } from '../common/Modal';
 import type { Project } from '../../types';
 
